@@ -38,8 +38,6 @@ Este repositório organiza o **ecossistema arquitetural e técnico** que envolve
 Arquiteto de Software .NET | Consultor Sênior | Instrutor | CEO & Founder  
 💼 [linkedin](https://linkedin.com/in/daniloopinheiro)
 
----
-
 Atua como:
 
 - CTO @ [Ticketizze](https://www.ticketizze.com.br/)
