@@ -48,6 +48,4 @@ Atua como:
 
 ---
 
-<p align="center">
-  Feito com 💡 arquitetura limpa, ☕ .NET e 💙 pela comunidade.
-</p>
+<p align="center">Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> • <a href="https://ticketizze.com.br" target="_blank">TicketIzze</a> </p>
