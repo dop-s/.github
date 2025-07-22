@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="174" height="174" alt="dop" src="https://github.com/user-attachments/assets/77a0c488-516d-4a2f-844f-935a1e98976f" style="margin-right: 20px;" />
+  <img align="left" width="174" height="174" alt="dop" src="https://github.com/dop-s/.github/blob/main/assets/dop.png" style="margin-right: 20px;" />
 </p>
 
 <h3>Ecossistema by Danilo O. Pinheiro</h3>
