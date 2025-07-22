@@ -15,13 +15,13 @@ Este repositório organiza o **ecossistema arquitetural e técnico** que envolve
 
 ## 🚀 Plataformas e Projetos
 
-- **[dopme.io](https://dopme.io)**  
+- **[dopme.io](https://github.com/dopme-io)**  
   Observabilidade, DevOps e arquitetura distribuída.
 
-- **[DevsFree](https://devsfree.com)**  
+- **[DevsFree](https://github.com/devsfree)**  
   Comunidade educacional e projetos acadêmicos para formação de novos talentos.
 
-- **[Ticketizze](https://ticketizze.com.br)**  
+- **[Ticketizze](https://github.com/ticketizze)**  
   Plataforma moderna para gestão de eventos.
 
 - **Projetos Open Source e Experimentais**  
