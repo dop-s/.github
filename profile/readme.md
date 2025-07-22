@@ -36,8 +36,6 @@ Este repositório organiza o **ecossistema arquitetural e técnico** que envolve
 
 **Danilo O. Pinheiro**  
 Arquiteto de Software .NET | Consultor Sênior | Instrutor | CEO & Founder  
-
-🔗 Site pessoal: [daniloopinheiro.dev](https://shifters.dev/daniloopinheiro)  
 💼 LinkedIn: [linkedin.com/in/daniloopinheiro](https://linkedin.com/in/daniloopinheiro)
 
 Atua como:
