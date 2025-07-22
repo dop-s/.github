@@ -40,9 +40,10 @@ Arquiteto de Software .NET | Consultor Sênior | Instrutor | CEO & Founder
 
 Atua como:
 
-- CTO @ Ticketizze  
-- CEO @ DevsFree  
+- CTO @ [Ticketizze](https://www.ticketizze.com.br/)
+- CEO @ [DevsFree](https://devsfree.com.br/)
 - Fundador @ dopme.io
+- Analista Consultor .NET @ [Nexmuv](https://www.nexmuv.com.br/)
 
 ---
 
