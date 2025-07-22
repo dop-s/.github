@@ -38,6 +38,8 @@ Este repositório organiza o **ecossistema arquitetural e técnico** que envolve
 Arquiteto de Software .NET | Consultor Sênior | Instrutor | CEO & Founder  
 💼 [linkedin](https://linkedin.com/in/daniloopinheiro)
 
+---
+
 Atua como:
 
 - CTO @ [Ticketizze](https://www.ticketizze.com.br/)
@@ -47,4 +49,15 @@ Atua como:
 
 ---
 
+## 📬 Contato
+
+Se você trabalha com .NET moderno e deseja dominar arquitetura, C#, DevOps ou interoperabilidade, vamos conversar:
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/daniloopinheiro)
+* ✍️ [Medium](https://medium.com/@daniloopinheiro)
+* 💻 [Dev.to](https://dev.to/daniloopinheiro)
+* 🌐 [shifters.dev](https://shifters.dev/daniloopinheiro)
+* 📬 [contato@dopme.io](mailto:contato@dopme.io)
+
+---
 <p align="center">Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> • <a href="https://ticketizze.com.br" target="_blank">TicketIzze</a> </p>
